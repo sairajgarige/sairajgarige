@@ -67,17 +67,7 @@ Hi! I’m Sairaj, a passionate B.Tech student with a strong interest in software
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairajgarige&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairajgarige&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
